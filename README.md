@@ -20,6 +20,6 @@ Find me here:
 
 If you find any of this content useful...
 
-[!["Buy Me A Coffee"](.\assets/buymeacoffee-default-yellow-124x60.png)](https://www.buymeacoffee.com/reubensultana)
+[!["Buy Me A Coffee"](/assets/buymeacoffee-default-yellow-124x60.png)](https://www.buymeacoffee.com/reubensultana)
 
 😊

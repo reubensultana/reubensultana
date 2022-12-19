@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:0,Christmas FM (AAC)
+https://christmasfm.cdnstream1.com/2547_64.aac
+
+#EXTINF:0,Christmas FM (MP3)
+https://christmasfm.cdnstream1.com/2547_128.mp3
+
+#EXTINF:0,RTÉ Pulse - Dublin
+http://icecast2.rte.ie/pulse
+
+#EXTINF:0,KISS
+https://daniel.torontocast.com:2985/stream.m3u
+
+#EXTINF:0,Ireland's Classic Hits
+http://sirius.shoutca.st:8166/listen.pls
+
+#EXTINF:0,Spin 1038
+https://edge.audioxi.com/SP
+
+#EXTINF:0,Sunshine 106.8
+https://edge.audioxi.com/SUN
+
+#EXTINF:0,Today FM
+https://edge.audioxi.com/TDAAC
+
+#EXTINF:0,98FM
+https://edge.audioxi.com/98
+
+#EXTINF:0,FM104
+https://wg.cdn.tibus.net/fm104MP3128
+
+#EXTINF:0,RTÉ Gold
+https://www.rte.ie/manifests/gold.m3u
+
+#EXTINF:0,RTÉ Radio 1
+https://www.rte.ie/manifests/radio1.m3u
+
+#EXTINF:0,RTÉ Radio 1 Extra
+https://www.rte.ie/manifests/radio1extra.m3u
+
+#EXTINF:0,RTÉ 2fm
+https://www.rte.ie/manifests/2fm.m3u

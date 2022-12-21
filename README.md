@@ -16,6 +16,8 @@ Find me here:
 
 * [Instagram](https://www.instagram.com/ReubenSultana)
 
+* [Data Platform | Mastodon](https://dataplatform.social/@ReubenSultana)
+
 &nbsp;
 
 If any of this content has helped you, consider buying me a coffee to say thanks. 😊

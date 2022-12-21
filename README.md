@@ -18,8 +18,6 @@ Find me here:
 
 &nbsp;
 
-If any of this content has helped you, consider buying me a coffee to say thanks.
+If any of this content has helped you, consider buying me a coffee to say thanks. 😊
 
 [!["Buy Me A Coffee"](/assets/buymeacoffee-default-yellow-124x60.png)](https://www.buymeacoffee.com/reubensultana)
-
-😊

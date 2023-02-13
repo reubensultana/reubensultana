@@ -51,7 +51,7 @@ I've found these useful throughout my career, and use most on an almost daily ba
 
 [SQL Fiddle](http://sqlfiddle.com/)
 
-[SQL Kitty](*https://sqlkitty.com/)
+[SQL Kitty](https://sqlkitty.com/)
 
 [SQL Ranger - Viktor Isakov](http://www.victorisakov.com/)
 

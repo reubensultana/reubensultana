@@ -6,7 +6,7 @@ https://christmasfm.cdnstream1.com/2547_64.aac
 #EXTINF:0,Christmas FM (MP3)
 https://christmasfm.cdnstream1.com/2547_128.mp3
 
-#EXTINF:0,RTÉ Pulse - Dublin
+#EXTINF:0,RTE Pulse Dublin
 http://icecast2.rte.ie/pulse
 
 #EXTINF:0,KISS
@@ -30,14 +30,14 @@ https://edge.audioxi.com/98
 #EXTINF:0,FM104
 https://wg.cdn.tibus.net/fm104MP3128
 
-#EXTINF:0,RTÉ Gold
+#EXTINF:0,RTE Gold
 https://www.rte.ie/manifests/gold.m3u
 
-#EXTINF:0,RTÉ Radio 1
+#EXTINF:0,RTE Radio 1
 https://www.rte.ie/manifests/radio1.m3u
 
-#EXTINF:0,RTÉ Radio 1 Extra
+#EXTINF:0,RTE Radio 1 Extra
 https://www.rte.ie/manifests/radio1extra.m3u
 
-#EXTINF:0,RTÉ 2fm
+#EXTINF:0,RTE 2fm
 https://www.rte.ie/manifests/2fm.m3u

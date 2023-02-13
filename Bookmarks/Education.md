@@ -29,3 +29,15 @@
 [Terraform - HashiCorp Learn | Prepare for Certification](https://learn.hashicorp.com/collections/terraform/certification)
 
 [UniversalClass: Online Courses and Continuing Education](https://lgma.universalclass.com/register.htm)
+
+[FET Course Hub](https://www.fetchcourses.ie/)
+
+[Microsoft | Enterprise Skills Initiative](https://esi.microsoft.com/)
+
+[Office of the Director of National Intelligence - Global Trends](https://www.dni.gov/index.php/gt2040-home)
+
+[200 Universities Just Launched 850+ Free Online Courses](https://www.freecodecamp.org/news/new-online-courses/)
+
+[Calculus Made Easy](http://calculusmadeeasy.org/)
+
+[Python.org](https://www.python.org/)

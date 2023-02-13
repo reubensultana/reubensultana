@@ -86,6 +86,8 @@
 
 ## Travel - Getting there and getting around
 
+[Google Travel](https://www.google.com/travel/)
+
 [Travel from Dublin to London by ferry and rail – Michael Pidgeon](https://pidgeon.ie/ferry-guide/)
 
 ### Air

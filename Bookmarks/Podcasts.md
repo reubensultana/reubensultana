@@ -1,5 +1,12 @@
 # A List of Interesting Podcasts
 
+- [A List of Interesting Podcasts](#a-list-of-interesting-podcasts)
+  - [Currently Following](#currently-following)
+  - [On the Wish-list](#on-the-wish-list)
+  - [Other Great Podcasts](#other-great-podcasts)
+
+&nbsp;
+
 ## Currently Following
 
 [Darknet Diaries](https://darknetdiaries.com/)
@@ -26,7 +33,7 @@
 
 &nbsp;
 
-## Great Podcasts
+## Other Great Podcasts
 
 [Dear SQL DBA - littlekendra.com](https://www.littlekendra.com/dearsqldba/)
 

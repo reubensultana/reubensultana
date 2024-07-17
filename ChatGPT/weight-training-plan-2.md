@@ -1,4 +1,4 @@
-# Weight Training Plan 2
+# Weight Training Plan 2 (2024)
 
 > Create four full body weight-training plans, using weights and gym machines, for a 49 year old male that will ensure both weight loss as well as muscle gains. The plans will be followed once a week, and each plan should take be completed in no more than 60 minutes. Thank you
 

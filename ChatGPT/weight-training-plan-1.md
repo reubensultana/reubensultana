@@ -1,4 +1,4 @@
-# Weight Training Plan 1
+# Weight Training Plan 1 (2023)
 
 > Create a weight-training plan, using weights and gym machines, for a 48 year old male that will ensure both weight loss as well as muscle gains. Training should be limited to three weekly sessions, with each session taking up no more than 75 minutes to complete. Thank you
 
